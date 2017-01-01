@@ -1,6 +1,9 @@
 # One time pad key files
 *.otp
 
+*.jpg
+*.cipher
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
